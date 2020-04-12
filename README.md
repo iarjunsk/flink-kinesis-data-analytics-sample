@@ -1,6 +1,6 @@
 ## Flink Kineis Data Analytics Sample App
 
-This is sample KDA application having flink-connector-kinesis as a library dependency. 
+This is sample KDA application having `flink-connector-kinesis:1.8.2` as a library dependency. 
 
 ## Topics Covered
 1. Flink Connector Kinesis 1.8.2
